@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.bak
+*.tmp
+
+.DS_Store

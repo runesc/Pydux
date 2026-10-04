@@ -1,0 +1,6 @@
+{
+  "name": "PyDux 3.0 — UI-Agnostic State Management for Python Desktop Apps",
+  "description": "Clean architecture Redux-like state management with memoized selectors, zero redundant re-renders, DevTools time-travel tracking, and agnostic bindings for Qyro, PySide, PyQt, Tkinter, and Kivy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
